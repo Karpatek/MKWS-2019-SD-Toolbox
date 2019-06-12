@@ -1,4 +1,4 @@
-Calculations:
+#Calculations:
 """
 ################################################################################
 Theory, numerical methods and applications are described in the following report:
@@ -167,8 +167,8 @@ print('Time to dT/dt_max = {:8.3e} s'.format(CVout1['ind_time']))
 print('Distance to dT/dt_max = {:8.3e} m'.format(CVout1['ind_time']*out['U'][0]))
 print('Reaction zone width (u_cj/sigmadot_max) = {:8.3e} m'.format(max_thermicity_width_ZND))
 
-
-Plots:
+
+#Plots:
 
 """
 Created on Tue Jun 11 21:19:07 2019
